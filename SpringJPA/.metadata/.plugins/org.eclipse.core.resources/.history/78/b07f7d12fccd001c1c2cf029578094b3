@@ -1,0 +1,5 @@
+package com.JPA.JavaPersistanceAPI.models;
+
+public class Channel {
+
+}

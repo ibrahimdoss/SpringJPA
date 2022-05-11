@@ -1,0 +1,29 @@
+package com.JPA.JavaPersistanceAPI.models;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.persistence.Entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Entity
+@AllArgsConstructor
+@NoArgsConstructor
+@Getter
+@Setter
+@Builder
+public class Channel {
+
+	private Integer id;
+	
+	private String name;
+	
+	private String url;
+	
+	private List<Subscriber> subscribers = new ArrayList();
+}

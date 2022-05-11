@@ -1,0 +1,8 @@
+package com.JPA.JavaPersistanceAPI.models;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Person {
+
+}

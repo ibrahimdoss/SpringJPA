@@ -1,0 +1,27 @@
+package com.JPA.JavaPersistanceAPI.models;
+
+import java.util.List;
+
+import javax.persistence.Entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Entity
+@Getter
+@Setter
+@Builder
+public class CartItem {
+	
+	private Integer id;
+	
+	private String productCode;
+	
+	private Integer quantity;
+
+}

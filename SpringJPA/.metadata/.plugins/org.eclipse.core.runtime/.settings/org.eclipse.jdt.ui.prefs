@@ -1,0 +1,11 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.FetchType"/><rhs name\="javax.persistence.GenerationType"/><rhs name\="javax.persistence.CascadeType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="javax.persistence.FetchType"/><rhs name\="javax.persistence.GenerationType"/><rhs name\="javax.persistence.CascadeType"/></lhs><lhs name\="com.JPA.JavaPersistanceAPI.models.Person"><rhs name\="com.JPA.JavaPersistanceAPI.models.Person"/></lhs><lhs name\="java.time.temporal.TemporalUnit"><rhs name\="java.time.temporal.ChronoUnit"/></lhs><lhs name\="com.JPA.JavaPersistanceAPI.models.Cart"><rhs name\="com.JPA.JavaPersistanceAPI.models.Cart"/></lhs><lhs name\="com.JPA.JavaPersistanceAPI.models.CartItem"><rhs name\="com.JPA.JavaPersistanceAPI.models.CartItem"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.math.BigDecimal"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.JPA.JavaPersistanceAPI.models.Channel"><rhs name\="com.JPA.JavaPersistanceAPI.models.Channel"/></lhs><lhs name\="com.JPA.JavaPersistanceAPI.models.Subscriber"><rhs name\="com.JPA.JavaPersistanceAPI.models.Subscriber"/></lhs></history>
+content_assist_number_of_computers=20
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=1
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale=en_GB
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

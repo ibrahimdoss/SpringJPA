@@ -1,0 +1,5 @@
+package com.JPA.JavaPersistanceAPI.GeneralNotes;
+
+public enum Notes {
+
+}

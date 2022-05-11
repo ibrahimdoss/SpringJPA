@@ -1,0 +1,10 @@
+package com.JPA.JavaPersistanceAPI;
+
+public class SpringRootApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

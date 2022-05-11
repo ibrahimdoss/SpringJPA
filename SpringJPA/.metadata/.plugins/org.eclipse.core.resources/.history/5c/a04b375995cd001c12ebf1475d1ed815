@@ -1,0 +1,8 @@
+
+package com.JPA.JavaPersistanceAPI.GeneralNotes;
+
+public enum Notes {
+	
+	OneToOne, OneToMany vs gibi iliskilerde bir tarafın sahipliği alması gerekir.
+
+}

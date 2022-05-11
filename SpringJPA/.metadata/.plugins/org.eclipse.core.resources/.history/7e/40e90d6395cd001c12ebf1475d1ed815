@@ -1,0 +1,11 @@
+
+package com.JPA.JavaPersistanceAPI.GeneralNotes;
+
+public enum Notes {
+	
+	OneToOne, OneToMany vs gibi iliskilerde bir tarafın sahipliği alması gerekir.
+	Bunu da mappedBy ile belirliyoruz. mappedBy'ı neye göre ekleyiyoruz diye düsünecek olursak;
+	 personun passporta bağımlılığı olduğu için mappedBy Person class'ı icinde.
+	 Yani bağımlılığa ev sahipliği yapan nesne tarafına eklenir.
+
+}
